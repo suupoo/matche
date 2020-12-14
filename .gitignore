@@ -4,6 +4,7 @@
 .LSOverride
 vendor
 .env
+node_modules
 # Icon must end with two \r
 Icon
 
